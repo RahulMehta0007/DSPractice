@@ -204,11 +204,10 @@ public class BST {
             /* we have visited the node and its 
                left subtree.  Now, it's right 
                subtree's turn */
-            curr = curr.rightChild; 
+            curr = curr.leftChild; 
         } 
     } 
   
-	
 	
 	
 	
