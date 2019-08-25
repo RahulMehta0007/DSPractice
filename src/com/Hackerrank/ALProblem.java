@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 public class ALProblem {
 /*
- * RAHUL
+ * Sugandha
  */
 	public static void main(String[] args) {
 	
